@@ -1,2 +1,2 @@
 # JET-OKAMI1
-MY README
+proj 01
